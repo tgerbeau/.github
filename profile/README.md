@@ -8,5 +8,5 @@ Espace dédié à la mise en Opensource des outils d'édition de cartes et story
 
 ### Organisation
 
-![](../img/organisation.png)
+![](https://raw.githubusercontent.com/IGNF-Ma-carte/.github/main/img/organisation.png)
 
