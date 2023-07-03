@@ -5,3 +5,8 @@ Espace dédié à la mise en Opensource des outils d'édition de cartes et story
 <p align="center">
   <img src="https://macarte.ign.fr/image/voir/mfg6193.png" style="width:400px;" />
 </p>
+
+### Organisation
+
+![](../img/organisation.png)
+
