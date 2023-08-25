@@ -6,7 +6,7 @@ This organization aims to promote the open source and online mapping and storyma
 
 ## Main modules
 
-See [apps and lib](./ORGANISATION.md) section for more info.
+See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/ORGANISATION.md) section for more info.
 
 ## Developping
 
