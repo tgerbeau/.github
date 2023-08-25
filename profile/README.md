@@ -3,7 +3,7 @@
 Espace dédié à la mise en Opensource des outils d'édition de cartes et storymap en ligne **Ma carte** de l'[Institut National de l'Information Géographique et Forestière (IGN)](https://www.ign.fr)
 
 <p align="center">
-  <img src="https://macarte.ign.fr/image/voir/mfg6193.png" width=600 align="center" />
+  <img src="https://macarte.ign.fr/image/voir/mfg6193.png" width=600 />
 </p>
 
 This organization aims to promote the open source and publish online mapping and storymap tools (Ma carte) developped by [IGN-France](https://github.com/IGNF).
