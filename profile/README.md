@@ -12,7 +12,7 @@ This organization aims to promote the open source and publish online mapping and
 
 See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/ORGANISATION.md) section for more info.
 
-### 📚 Doc and lib
+### 📚 Libraries, doc and code examples
 
 * [FontIGN](https://ignf-ma-carte.github.io/font-ign/)
 * [MCUtils](https://ignf-ma-carte.github.io/mcutils/)
@@ -22,7 +22,7 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
   * [Observable iFrameAPI](https://observablehq.com/@viglino/ma-carte-iframeapi)
   * [iFrameAPI exemple](https://codepen.io/viglino/pen/GRMwQZx)
 
-### 🧪 Alpha-Test
+### 🧪 Alpha-Test instance on Github
 
 * 👮 Mon compte
 * [🗺️ Atlas](https://ignf-ma-carte.github.io/mcatlas/)
