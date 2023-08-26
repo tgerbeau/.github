@@ -16,7 +16,7 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
 
 * [FontIGN](https://ignf-ma-carte.github.io/font-ign/)
 * [MCUtils](https://ignf-ma-carte.github.io/mcutils/)
-* Swagger de l'API
+* [Swagger de l'API](https://macarte-qualif.ign.fr/api)
 * [iFrameAPI doc (doc auto)](https://ignf-ma-carte.github.io/mcviewer/doc/)
 * Exemples :
   * [Observable iFrameAPI](https://observablehq.com/@viglino/ma-carte-iframeapi)
