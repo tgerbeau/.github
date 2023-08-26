@@ -8,7 +8,7 @@ Espace dédié à la mise en Opensource des outils d'édition de cartes et story
 
 This organization aims to promote the open source and publish online mapping and storymap tools (Ma carte) developped by [IGN-France](https://github.com/IGNF).
 
-## Main modules
+## 📺 Main modules
 
 See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/ORGANISATION.md) section for more info.
 
