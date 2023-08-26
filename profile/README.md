@@ -36,7 +36,7 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
 * 🧊 Viewer 3D
 * 🎨 Mon vecteur tuilé   
 
-## Developping
+## 👨‍💻 Developping
 
 See [developping](https://github.com/IGNF-Ma-carte/.github/blob/main/DEVELOPING.md) section to know how to.
 
