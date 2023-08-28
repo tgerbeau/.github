@@ -34,8 +34,8 @@ Alpha-test app includes new features and may be inconstant.
 * [👨 Utilisateur](https://ignf-ma-carte.github.io/mcatlas/user.html?user=Lambda_wq6P)
 * [👁️ Viewer](https://ignf-ma-carte.github.io/mcviewer/?map=4abe44d25ec0a28b7159b27cd25ce476)
 * ✏️ [Ma carte (édition)](https://ignf-ma-carte.github.io/mceditor/)
-* ✉️ Mes adresses
 * 💬 Mes narrations
+* ✉️ [Mes adresses](https://ignf-ma-carte.github.io/mcaddresses/)
 * 📊 Mes statistiques
 * 🗜️ Mes géoréférencements
 * 🧊 Viewer 3D
