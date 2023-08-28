@@ -41,7 +41,7 @@ Alpha-test app includes new features and may be inconstant.
 ### Futur modules
 
 * [🗜️ Mes géoréférencements](https://ignf-ma-carte.github.io/mcgeoimage/)
-* [🧊 Viewer 3D](https://ignf-ma-carte.github.io/viewer3d/)
+* [🧊 Viewer 3D](https://ignf-ma-carte.github.io/mcviewer3D/?map=8ba140c5ff389a30d9a2c3b7966df1b6) `experimental`
 * 🎨 Mon vecteur tuilé   
 
 ## 👨‍💻 Developping
