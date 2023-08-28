@@ -5,7 +5,7 @@
 Il est constitué d'une partie serveur développée avec [Symfony](https://symfony.com/) qui [intègre une API](https://github.com/IGNF-Ma-carte/macarte-api) et d'applications web pour [l'affichage et l'édition de cartes](https://github.com/IGNF-Ma-carte#-alpha-test-instance-on-github). Ces dernières s'appuient sur une bibliothèque ([mcutils](https://github.com/IGNF-Ma-carte/mcutils)) commune.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IGNF-Ma-carte/.github/main/img/organisation.png" width=800 />
+  <img src="https://raw.githubusercontent.com/IGNF-Ma-carte/.github/main/img/organization.png" width=800 />
 </p>
 
 ### Les web applications
