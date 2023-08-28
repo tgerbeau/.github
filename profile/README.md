@@ -24,8 +24,10 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
 
 ### 🧪 Alpha-Test instance on Github
 
-[!WARNING]
+```alert
+⚠️ WARNING    
 Alpha-test app includes new features and may be inconstant.
+```
 
 * 👮 Mon compte
 * [🗺️ Atlas](https://ignf-ma-carte.github.io/mcatlas/)
