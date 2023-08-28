@@ -29,16 +29,19 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
 Alpha-test app includes new features and may be inconstant.
 ```
 
-* 👮 Mon compte
+* [👮 Mon compte](https://ignf-ma-carte.github.io/mcuser/)
 * [🗺️ Atlas](https://ignf-ma-carte.github.io/mcatlas/)
 * [👨 Utilisateur](https://ignf-ma-carte.github.io/mcatlas/user.html?user=Lambda_wq6P)
 * [👁️ Viewer](https://ignf-ma-carte.github.io/mcviewer/?map=4abe44d25ec0a28b7159b27cd25ce476)
 * ✏️ [Ma carte (édition)](https://ignf-ma-carte.github.io/mceditor/)
-* 💬 Mes narrations
-* ✉️ [Mes adresses](https://ignf-ma-carte.github.io/mcaddresses/)
-* 📊 Mes statistiques
-* 🗜️ Mes géoréférencements
-* 🧊 Viewer 3D
+* [💬 Mes narrations}(https://ignf-ma-carte.github.io/mcstory/)
+* [✉️ Mes adresses](https://ignf-ma-carte.github.io/mcaddresses/)
+* [📊 Mes statistiques](https://ignf-ma-carte.github.io/mcstatistic/)
+
+### Futur modules
+
+* [🗜️ Mes géoréférencements](https://ignf-ma-carte.github.io/mcgeoimage/)
+* [🧊 Viewer 3D](https://ignf-ma-carte.github.io/viewer3d/)
 * 🎨 Mon vecteur tuilé   
 
 ## 👨‍💻 Developping
