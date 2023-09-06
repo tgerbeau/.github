@@ -14,12 +14,12 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
 
 ### 📚 Libraries, doc and code examples
 
-* [FontIGN](https://ignf-ma-carte.github.io/font-ign/)
+* [🗚 FontIGN](https://ignf-ma-carte.github.io/font-ign/)
 * [MCUtils](https://github.com/IGNF-Ma-carte/mcutils)  - [👩‍🔬 test online](https://ignf-ma-carte.github.io/mcutils/) - [📚 documentation](https://ignf-ma-carte.github.io/mcutils/doc/)
-* [Swagger de l'API](https://macarte-qualif.ign.fr/api)
-* [iFrameAPI doc (doc auto)](https://ignf-ma-carte.github.io/mcviewer/doc/)
+* [![](https://avatars.githubusercontent.com/u/7658037?s=15) Swagger de l'API](https://macarte-qualif.ign.fr/api)
+* [🖼️ iFrameAPI doc (doc auto)](https://ignf-ma-carte.github.io/mcviewer/doc/)
 * Exemples :
-  * [Observable iFrameAPI](https://observablehq.com/@viglino/ma-carte-iframeapi)
+  * [![](https://avatars.githubusercontent.com/u/30080011?s=17) Observable iFrameAPI](https://observablehq.com/@viglino/ma-carte-iframeapi)
   * [iFrameAPI exemple](https://codepen.io/viglino/pen/GRMwQZx)
 
 ### 🧪 Alpha-Test instance on Github
