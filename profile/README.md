@@ -15,7 +15,7 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
 ### 📚 Libraries, doc and code examples
 
 * [FontIGN](https://ignf-ma-carte.github.io/font-ign/)
-* [MCUtils](https://github.com/IGNF-Ma-carte/mcutils)  - [👩‍🔬 test online](https://ignf-ma-carte.github.io/mcutils/)
+* [MCUtils](https://github.com/IGNF-Ma-carte/mcutils)  - [👩‍🔬 test online](https://ignf-ma-carte.github.io/mcutils/) - [📚 documentation](https://ignf-ma-carte.github.io/mcutils/doc/)
 * [Swagger de l'API](https://macarte-qualif.ign.fr/api)
 * [iFrameAPI doc (doc auto)](https://ignf-ma-carte.github.io/mcviewer/doc/)
 * Exemples :
