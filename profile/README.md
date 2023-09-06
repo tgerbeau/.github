@@ -1,6 +1,6 @@
 ## 🗺️ Ma carte
 
-Espace dédié à la mise en Opensource des outils d'édition de cartes et storymap en ligne **[Ma carte](https://macarte.ign.fr/)** développé par l'[Institut National de l'Information Géographique et Forestière (IGN)](https://www.ign.fr)
+Espace dédié à la mise en open source des outils d'édition de cartes et storymap en ligne **[Ma carte](https://macarte.ign.fr/)** développés par l'[Institut National de l'Information Géographique et Forestière (IGN)](https://www.ign.fr)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/IGNF-Ma-carte/.github/main/img/macarte.png" width=600 />
@@ -15,7 +15,7 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
 ### 📚 Libraries, doc and code examples
 
 * [FontIGN](https://ignf-ma-carte.github.io/font-ign/)
-* [MCUtils](https://ignf-ma-carte.github.io/mcutils/)
+* [MCUtils](https://github.com/IGNF-Ma-carte/mcutils)  - [👩‍🔬 test](https://ignf-ma-carte.github.io/mcutils/)
 * [Swagger de l'API](https://macarte-qualif.ign.fr/api)
 * [iFrameAPI doc (doc auto)](https://ignf-ma-carte.github.io/mcviewer/doc/)
 * Exemples :
@@ -28,21 +28,24 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
 ⚠️ WARNING    
 Alpha-test app includes new features and may be inconstant.
 ```
-
-* [👮 Mon compte](https://ignf-ma-carte.github.io/mcuser/)
-* [🗺️ Atlas](https://ignf-ma-carte.github.io/mcatlas/)
-* [👨 Utilisateur](https://ignf-ma-carte.github.io/mcatlas/user.html?user=Lambda_wq6P)
-* [👁️ Viewer](https://ignf-ma-carte.github.io/mcviewer/?map=4abe44d25ec0a28b7159b27cd25ce476)
-* [✏️ Ma carte (édition)](https://ignf-ma-carte.github.io/mceditor/)
-* [💬 Mes narrations](https://ignf-ma-carte.github.io/mcstory/)
-* [✉️ Mes adresses](https://ignf-ma-carte.github.io/mcaddresses/)
-* [📊 Mes statistiques](https://ignf-ma-carte.github.io/mcstatistic/)
+| Repository | test |
+|------------|:----:|
+|[👮 Mon compte](https://github.com/IGNF-Ma-carte/mcuser) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcuser/) |
+| [🗺️ Atlas](https://github.com/IGNF-Ma-carte/mcatlas) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcatlas/) |
+| [👨 Utilisateur](https://github.com/IGNF-Ma-carte/mcatlas) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcatlas/user.html?user=Lambda_wq6P) |
+| [👁️ Viewer](https://github.com/IGNF-Ma-carte/mcviewer) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcviewer/?map=4abe44d25ec0a28b7159b27cd25ce476) |
+| [✏️ Ma carte (édition)](https://github.com/IGNF-Ma-carte/mceditor) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mceditor/) |
+| [💬 Mes narrations](https://github.com/IGNF-Ma-carte/mcstory) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcstory/) |
+| [✉️ Mes adresses](https://github.com/IGNF-Ma-carte/mcaddresses) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcaddresses/) |
+| [📊 Mes statistiques](https://github.com/IGNF-Ma-carte/mcstatistic) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcstatistic/) |
 
 ### Futur modules
 
-* [🗜️ Mes géoréférencements](https://ignf-ma-carte.github.io/mcgeoimage/)
-* [🧊 Viewer 3D](https://ignf-ma-carte.github.io/mcviewer3D/?map=8ba140c5ff389a30d9a2c3b7966df1b6) `experimental`
-* 🎨 Mon vecteur tuilé   
+| Repository | test |
+|------------|:----:|
+| [🗜️ Mes géoréférencements](https://github.com/IGNF-Ma-carte/mcgeoimage) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcgeoimage/) |
+| [🧊 Viewer 3D](https://github.com/IGNF-Ma-carte/mcviewer3D) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcviewer3D/?map=8ba140c5ff389a30d9a2c3b7966df1b6) `experimental` |
+| 🎨 Mon vecteur tuilé | |
 
 ## 👨‍💻 Developping
 
@@ -51,7 +54,14 @@ See [developping](https://github.com/IGNF-Ma-carte/.github/blob/main/DEVELOPING.
 
 ## ⚖️ License
 
-This organization aims to promote the open source and online mapping tools and services developed by IGN-France.   
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png) Cet organisation est dédié à la mise en open source des outils d'édition de cartes et storymap en ligne **[Ma carte](https://macarte.ign.fr/)** développés par l'[Institut National de l'Information Géographique et Forestière (IGN)](https://www.ign.fr)
+Les bibliothèques Javascript sont, pour la plupart, sous licence MIT et les applications sous GPL-3.
+Reportez-vous à chaque dépôt pour plus d'informations.
+
+**Important** : Veuillez noter que les logos, images et éléments graphiques associés à l'IGN ou à la République française, présents dans ce projet, sont protégés par le droit d'auteur et ne sont pas couverts par la licence open source du code. 
+L'utilisation de ces éléments est soumise aux lois et réglementations applicables et doit être effectuée dans le respect des droits et autorisations accordés par les propriétaires respectifs.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/25px-Flag_of_the_United_Kingdom_%283-5%29.svg.png) This organization aims to promote the open source and online [mapping tools](https://macarte.ign.fr/) and services developed by [IGN-France](https://www.ign.fr).   
 Library repo are mostly under MIT license and app repo under GPL-3.   
 Refer to each repository for more information.
 
