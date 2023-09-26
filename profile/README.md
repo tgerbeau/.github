@@ -28,16 +28,16 @@ See [apps and lib](https://github.com/IGNF-Ma-carte/.github/blob/main/profile/OR
 ⚠️ WARNING    
 Alpha-test app includes new features and may be inconstant.
 ```
-| Repository | test |
-|------------|:----:|
-|[👮 Mon compte](https://github.com/IGNF-Ma-carte/mcuser) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcuser/) |
-| [🗺️ Atlas](https://github.com/IGNF-Ma-carte/mcatlas) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcatlas/) |
-| [👨 Utilisateur](https://github.com/IGNF-Ma-carte/mcatlas) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcatlas/user.html?user=Lambda_wq6P) |
-| [👁️ Viewer](https://github.com/IGNF-Ma-carte/mcviewer) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcviewer/?map=4abe44d25ec0a28b7159b27cd25ce476) |
-| [✏️ Ma carte (édition)](https://github.com/IGNF-Ma-carte/mceditor) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mceditor/) |
-| [💬 Mes narrations](https://github.com/IGNF-Ma-carte/mcstory) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcstory/) |
-| [✉️ Mes adresses](https://github.com/IGNF-Ma-carte/mcaddresses) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcaddresses/) |
-| [📊 Mes statistiques](https://github.com/IGNF-Ma-carte/mcstatistic) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcstatistic/) |
+| Repository | test ||
+|------------|:----:|:---:|
+|[👮 Mon compte](https://github.com/IGNF-Ma-carte/mcuser) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcuser/) | ![](https://img.shields.io/github/v/release/IGNF-Ma-carte/mcuser) |
+| [🗺️ Atlas](https://github.com/IGNF-Ma-carte/mcatlas) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcatlas/) | ![](https://img.shields.io/github/v/release/IGNF-Ma-carte/mcatlas) |
+| [👨 Utilisateur](https://github.com/IGNF-Ma-carte/mcatlas) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcatlas/user.html?user=Lambda_wq6P) | ![](https://img.shields.io/github/v/release/IGNF-Ma-carte/mcatlas) |
+| [👁️ Viewer](https://github.com/IGNF-Ma-carte/mcviewer) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcviewer/?map=4abe44d25ec0a28b7159b27cd25ce476) | ![](https://img.shields.io/github/v/release/IGNF-Ma-carte/mcviewer) |
+| [✏️ Ma carte (édition)](https://github.com/IGNF-Ma-carte/mceditor) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mceditor/) | ![](https://img.shields.io/github/v/release/IGNF-Ma-carte/mceditor) |
+| [💬 Mes narrations](https://github.com/IGNF-Ma-carte/mcstory) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcstory/) | ![](https://img.shields.io/github/v/release/IGNF-Ma-carte/mcstory) |
+| [✉️ Mes adresses](https://github.com/IGNF-Ma-carte/mcaddresses) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcaddresses/) | ![](https://img.shields.io/github/v/release/IGNF-Ma-carte/mcaddresses) |
+| [📊 Mes statistiques](https://github.com/IGNF-Ma-carte/mcstatistic) | [👩‍🔬 online test](https://ignf-ma-carte.github.io/mcstatistic/) | ![](https://img.shields.io/github/v/release/IGNF-Ma-carte/mcstatistic) |
 
 ### Futur modules
 
