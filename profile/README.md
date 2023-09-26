@@ -1,5 +1,9 @@
 ## 🗺️ Ma carte
 
+[![](https://img.shields.io/badge/open%20source-SILL-blue)](https://code.gouv.fr/sill/detail?name=Ma%20carte)
+[![](https://img.shields.io/badge/open%20source-CdL-teal)](https://comptoir-du-libre.org/fr/softwares/647)
+[![](https://img.shields.io/badge/open%20source-Wikidata-firebrick)](https://www.wikidata.org/wiki/Q122584745)
+
 Espace dédié à la mise en open source des outils d'édition de cartes et storymap en ligne **[Ma carte](https://macarte.ign.fr/)** développés par l'[Institut National de l'Information Géographique et Forestière (IGN)](https://www.ign.fr)
 
 <p align="center">
