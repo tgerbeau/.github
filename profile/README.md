@@ -67,5 +67,7 @@ Refer to each repository for more information.
 
 **Important notice** : Please note that the logos, images and graphic elements associated with IGN and the French Republic, present in this project, are protected by copyright and are not covered by the open source licence of this code. The use of these elements is subject to applicable laws and regulations and must be carried out in compliance with the rights and permissions granted by the respective owners
 
-
+* [Consulter la fiche sur le SILL](https://code.gouv.fr/sill/detail?name=Ma%20carte)
+* [Consulter la fiche du Comptoir du Libre](https://comptoir-du-libre.org/fr/softwares/647)
+* [Consulter la fiche de Wikidata](https://www.wikidata.org/wiki/Q122584745)
 
